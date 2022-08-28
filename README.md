@@ -1,7 +1,8 @@
 # pcb_vl822-fe2.1-rtl8153
 many many usb hub 
 
-
+verify pass;
+pcb online view: https://oshwhub.com/gamefunc/pcexttt
 
 
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty+.jpg)
