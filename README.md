@@ -7,6 +7,8 @@ pcb online view: https://oshwhub.com/gamefunc/pcexttt
 
 or use jlc_eda_pro open: pc_ext_vl822+fe2.1+rtl8153.eprj
 
+ps: NOT REQUIRED SPI FLASH CHIP AND FIRMWARE;
+
 pcb+:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty+.jpg)
 
