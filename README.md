@@ -17,6 +17,9 @@ pcb-:
 ok+:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/ok%2B.jpg)
 
+ok1+:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/ok1%2B.jpg)
+
 ok-:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/ok-.jpg)
 
