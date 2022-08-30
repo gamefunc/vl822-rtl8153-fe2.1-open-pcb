@@ -8,12 +8,6 @@ or use jlc_eda_pro open: pc_ext_vl822+fe2.1+rtl8153.eprj
 
 Unwanted: SPI FLASH CHIP AND FIRMWARE; 
 
-pcb+:
-![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty+.jpg)
-
-pcb-:
-![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty-.jpg)
-
 ok+:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/ok%2B.jpg)
 
@@ -28,6 +22,12 @@ view+:
 
 view-:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/pcb-.png)
+
+pcb+:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty+.jpg)
+
+pcb-:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty-.jpg)
 
 
 # verify test env: i5-2550k(my pc Motherboard only support usb 3.0):
