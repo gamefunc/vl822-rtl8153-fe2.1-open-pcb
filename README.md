@@ -34,3 +34,6 @@ usb3_vl822_verify:
 
 usb2_fe2.1_verify:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/fe2.1_usb2_verify.png)
+
+rtl8153_verify:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/rtl8153_verify.png)
