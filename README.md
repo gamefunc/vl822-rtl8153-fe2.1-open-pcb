@@ -3,6 +3,7 @@
 verify pass;
 
 pcb online view: https://oshwhub.com/gamefunc/pcexttt
+maybe this link direct view pcb: https://pro.lceda.cn/editor#id=8ae09c9b107342a8a52cace06771267e
 
 or use jlc_eda_pro open: pc_ext_vl822+fe2.1+rtl8153.eprj_v8.2.eprj
 
