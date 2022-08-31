@@ -37,3 +37,6 @@ usb2_fe2.1_verify:
 
 rtl8153_verify2:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/rtl8153_verify2.png)
+
+
+2022/08/31 v8.2: fix rtl8153 only 33mb/s work on usb2; because rx1 tx1 diff pair not reverse connect;
