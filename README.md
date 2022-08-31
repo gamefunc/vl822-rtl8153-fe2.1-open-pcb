@@ -23,9 +23,6 @@ pcb+:
 pcb-:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty-.jpg)
 
-pcb-:
-![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/pcb-.png)
-
 
 # verify test env: i5-2550k(my pc Motherboard only support usb 3.0):
 
