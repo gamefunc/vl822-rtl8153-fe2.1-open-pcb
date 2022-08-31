@@ -39,4 +39,4 @@ rtl8153_verify2:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/rtl8153_verify2.png)
 
 
-2022/08/31 v8.2: fix rtl8153 only 33mb/s work on usb2; because rx1 tx1 diff pair not_ed X connect;
+2022/08/31 v8.2: fix rtl8153 only 33mb/s work on usb2; because rx1 tx1 diff pair not_ed X connect, so usb3 not negotiations success, then fix it, let rtl8153 work on usb3;
