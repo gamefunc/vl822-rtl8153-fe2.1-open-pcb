@@ -17,10 +17,13 @@ ok1+:
 ok-:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/ok-.jpg)
 
-view+:
-![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/pcb%2B.png)
+pcb+:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty%2B.jpg)
 
-view-:
+pcb-:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/empty-.jpg)
+
+pcb-:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_vl822-fe2.1-rtl8153/main/pcb-.png)
 
 
