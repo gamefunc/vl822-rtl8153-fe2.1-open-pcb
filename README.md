@@ -1,4 +1,11 @@
-# pcb_vl822-fe2.1-rtl8153
+# vl822 rtl8153 fe2.1 open pcb project;
+
+vl8153: usb3 1G netcard;
+
+vl822: 4 port usb3.2(usb 3 gen2) hub;
+
+fe2.1 usb2 7 port hub;
+
 
 verify pass;
 
